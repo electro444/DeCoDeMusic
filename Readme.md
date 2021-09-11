@@ -1,16 +1,11 @@
-<p align="center">
-    <a href="https://app.codacy.com/gh/TEAM-PATRICIA/PatriciaMusic2.0/dashboard?branch=Legacy"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=cyan&logo=codacy&logoColor=white&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/TEAM-PATRICIA/PatriciaMusic2.0"> <img src="https://img.shields.io/github/repo-size/TeamInnexia/innexiaBot?color=cyan&logo=github&logoColor=white&style=for-the-badge" /></a>
-</p>
 
 
-# Pᴀᴛʀɪᴄɪᴀ•Mᴜsɪᴄ👮
+# DeeCoDe•Music👮
 💡 This is Innexia An Advanced Telegram CHAT Bot For Best AI Experience !! 🤖 
 
-![logo](https://telegra.ph/file/4d1c1151214987122659b.jpg)
-#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/patricia_support)
+![logo](https://telegra.ph/file/664e34bc77911c8fdf05c.jpg)
+#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/DeCodeSupport)
 
-## Me On Telegram As [💥 Pᴀᴛʀɪᴄɪᴀ 💥](https://t.me/PATRICIA_ROBOT)
 
 ## Cᴏᴍᴍᴀɴᴅs
 ```
@@ -42,9 +37,9 @@
 
 # ʜᴏsᴛ ɪᴛ ᴏɴ ʀᴀɪʟᴡᴀʏ💻
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TEAM-PATRICIA/PatriciaMusic2.0&envs=BOT_USERNAME,BOT_TOKEN,SESSION_NAME,PROJECT_NAME,SUPPORT_GROUP,BOT_NAME,BG_IMAGE,ARQ_API_KEY,ASSISTANT_NAME,API_ID,UPDATES_CHANNEL,API_HASH,PMPERMIT,SUDO_USERS,DURATION_LIMIT )
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TeamDeeCode/DeCoDeMusic&envs=BOT_USERNAME,BOT_TOKEN,SESSION_NAME,PROJECT_NAME,SUPPORT_GROUP,BOT_NAME,BG_IMAGE,ARQ_API_KEY,ASSISTANT_NAME,API_ID,UPDATES_CHANNEL,API_HASH,PMPERMIT,SUDO_USERS,DURATION_LIMIT )
 
 # ʜᴏsᴛ ɪᴛ ᴏɴ ʜᴇʀᴏᴋᴜ🚀
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-PATRICIA/PatriciaMusic2.0"><img align="center" alt="heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamDeeCode/DeCoDeMusic"><img align="center" alt="heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
  
 
